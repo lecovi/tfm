@@ -1,7 +1,11 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Capítulo 0 - Introducción](README.md)
+  * [Objetivos](capitulo-0-introduccion/objetivos.md)
+  * [Metodología](capitulo-0-introduccion/metodologia.md)
 
-## Group 1
+## Capítulo 1 - Marco Teórico
 
-* [Page 2](group-1/page-2.md)
+* [Conceptos Iniciales](capitulo-1-marco-teorico/conceptos-iniciales.md)
+* [Cultura Open Source](capitulo-1-marco-teorico/cultura-open-source.md)
+* [Page 1](capitulo-1-marco-teorico/page-1.md)
